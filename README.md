@@ -3,4 +3,4 @@ An android app for the Weight and Balance calculator that provides center of gra
 
 Created by Vedant Purohit github.com/vedantpurohit99
 
-![text](https://github.com/vedantpurohit99/WeightAndBalanceApp/blob/master/Images/Home%20Page.JPG)
+![text](https://github.com/vedantpurohit99/WeightAndBalanceApp/blob/master/Images/Home%20Page.JPG =250x250)
